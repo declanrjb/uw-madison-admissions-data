@@ -1,5 +1,5 @@
 Repository containing raw data referenced in my story for *The Chronicle of Higher Education*
-titled *At U. of Wisconsin, Underrepresented Students of Color Were Half as Likely to Be Accepted This Year*.
+titled "At U. of Wisconsin, Underrepresented Students of Color Were Half as Likely to Be Accepted This Year".
 
 **Original Document**: data.wisc.edu/admissions
 
