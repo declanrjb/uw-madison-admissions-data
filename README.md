@@ -1,8 +1,7 @@
 Repository containing raw data referenced in my story for *The Chronicle of Higher Education*
-titled "At U. of Wisconsin, Underrepresented Students of Color Were Half as Likely to Be Accepted This Year".
+titled "At U. of Wisconsin, Underrepresented Students of Color Were Half as Likely to Be Accepted This Year."
 
 **Original Document**: data.wisc.edu/admissions
-
 **Full Story**: chronicle.com/article/at-u-of-wisconsin-underrepresented-students-of-color-were-half-as-likely-to-be-accepted-this-year
 
 # Data Notes
@@ -12,8 +11,5 @@ used in the federal IPEDs dataset. Madison also provided two composite categorie
 **Underrepresented Students of Color**: "domestic (not international) students who identify as African American/Black, Southeast Asian (Vietnamese, Hmong, Laotian, Cambodian), Hispanic/Latino(a), Native Hawaiian/Pacific Islander, or American Indian/Alaska Native." 
 
 **Students of Color**: "All of the students in the underrepresented group and adds other domestic students who identify as Asian."
-
-Acceptance/yield rates included in the original document are not included in this table because they can be easily derived from the 
-raw student counts.
 
 You can reach me at dbradley@chronicle.com.
