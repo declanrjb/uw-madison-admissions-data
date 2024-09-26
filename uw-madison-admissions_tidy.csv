@@ -1,0 +1,361 @@
+"Year","Stage","Group","Num_Students"
+2015,"Applicants","Hispanic/Latino(a)",2129
+2015,"Applicants","2 or more races",1088
+2015,"Applicants","African American/Black",1041
+2015,"Applicants","Alaska Native",53
+2015,"Applicants","Native Hawaiian/Pacific Islander",46
+2015,"Applicants","Asian",2583
+2015,"Applicants","White",20041
+2015,"Applicants","International",5722
+2015,"Applicants","Unknown",77
+2015,"Applicants","Underrep. Students of Color",4070
+2015,"Applicants","All Students of Color",6941
+2015,"Applicants","Total",32780
+2016,"Applicants","Hispanic/Latino(a)",2126
+2016,"Applicants","2 or more races",1091
+2016,"Applicants","African American/Black",967
+2016,"Applicants","Alaska Native",53
+2016,"Applicants","Native Hawaiian/Pacific Islander",24
+2016,"Applicants","Asian",2664
+2016,"Applicants","White",19575
+2016,"Applicants","International",6306
+2016,"Applicants","Unknown",81
+2016,"Applicants","Underrep. Students of Color",3929
+2016,"Applicants","All Students of Color",6925
+2016,"Applicants","Total",32887
+2017,"Applicants","Hispanic/Latino(a)",2589
+2017,"Applicants","2 or more races",1115
+2017,"Applicants","African American/Black",1011
+2017,"Applicants","Alaska Native",60
+2017,"Applicants","Native Hawaiian/Pacific Islander",19
+2017,"Applicants","Asian",2719
+2017,"Applicants","White",19893
+2017,"Applicants","International",7191
+2017,"Applicants","Unknown",1018
+2017,"Applicants","Underrep. Students of Color",4494
+2017,"Applicants","All Students of Color",7513
+2017,"Applicants","Total",35615
+2018,"Applicants","Hispanic/Latino(a)",3075
+2018,"Applicants","2 or more races",1425
+2018,"Applicants","African American/Black",1164
+2018,"Applicants","Alaska Native",59
+2018,"Applicants","Native Hawaiian/Pacific Islander",31
+2018,"Applicants","Asian",3736
+2018,"Applicants","White",23414
+2018,"Applicants","International",8340
+2018,"Applicants","Unknown",1497
+2018,"Applicants","Underrep. Students of Color",5329
+2018,"Applicants","All Students of Color",9490
+2018,"Applicants","Total",42741
+2019,"Applicants","Hispanic/Latino(a)",3278
+2019,"Applicants","2 or more races",1454
+2019,"Applicants","African American/Black",1141
+2019,"Applicants","Alaska Native",50
+2019,"Applicants","Native Hawaiian/Pacific Islander",21
+2019,"Applicants","Asian",4120
+2019,"Applicants","White",23440
+2019,"Applicants","International",8782
+2019,"Applicants","Unknown",1635
+2019,"Applicants","Underrep. Students of Color",5571
+2019,"Applicants","All Students of Color",10064
+2019,"Applicants","Total",43921
+2020,"Applicants","Hispanic/Latino(a)",3597
+2020,"Applicants","2 or more races",1692
+2020,"Applicants","African American/Black",1210
+2020,"Applicants","Alaska Native",62
+2020,"Applicants","Native Hawaiian/Pacific Islander",15
+2020,"Applicants","Asian",4790
+2020,"Applicants","White",23898
+2020,"Applicants","International",9070
+2020,"Applicants","Unknown",1607
+2020,"Applicants","Underrep. Students of Color",5948
+2020,"Applicants","All Students of Color",11366
+2020,"Applicants","Total",45941
+2021,"Applicants","Hispanic/Latino(a)",4230
+2021,"Applicants","2 or more races",1984
+2021,"Applicants","African American/Black",1221
+2021,"Applicants","Alaska Native",67
+2021,"Applicants","Native Hawaiian/Pacific Islander",22
+2021,"Applicants","Asian",5731
+2021,"Applicants","White",28584
+2021,"Applicants","International",9979
+2021,"Applicants","Unknown",2011
+2021,"Applicants","Underrep. Students of Color",6753
+2021,"Applicants","All Students of Color",13255
+2021,"Applicants","Total",53829
+2022,"Applicants","Hispanic/Latino(a)",4271
+2022,"Applicants","2 or more races",2302
+2022,"Applicants","African American/Black",1402
+2022,"Applicants","Alaska Native",74
+2022,"Applicants","Native Hawaiian/Pacific Islander",29
+2022,"Applicants","Asian",7233
+2022,"Applicants","White",30386
+2022,"Applicants","International",12339
+2022,"Applicants","Unknown",2224
+2022,"Applicants","Underrep. Students of Color",7151
+2022,"Applicants","All Students of Color",15311
+2022,"Applicants","Total",60260
+2023,"Applicants","Hispanic/Latino(a)",4891
+2023,"Applicants","2 or more races",2598
+2023,"Applicants","African American/Black",1499
+2023,"Applicants","Alaska Native",82
+2023,"Applicants","Native Hawaiian/Pacific Islander",34
+2023,"Applicants","Asian",9027
+2023,"Applicants","White",30832
+2023,"Applicants","International",12407
+2023,"Applicants","Unknown",2167
+2023,"Applicants","Underrep. Students of Color",6106
+2023,"Applicants","All Students of Color",18131
+2023,"Applicants","Total",63537
+2024,"Applicants","Hispanic/Latino(a)",5260
+2024,"Applicants","2 or more races",2749
+2024,"Applicants","African American/Black",1640
+2024,"Applicants","Alaska Native",115
+2024,"Applicants","Native Hawaiian/Pacific Islander",32
+2024,"Applicants","Asian",9647
+2024,"Applicants","White",30256
+2024,"Applicants","International",13108
+2024,"Applicants","Unknown",3126
+2024,"Applicants","Underrep. Students of Color",8816
+2024,"Applicants","All Students of Color",19443
+2024,"Applicants","Total",65933
+2015,"Admitted","Hispanic/Latino(a)",912
+2015,"Admitted","2 or more races",545
+2015,"Admitted","African American/Black",317
+2015,"Admitted","Alaska Native",22
+2015,"Admitted","Native Hawaiian/Pacific Islander",15
+2015,"Admitted","Asian",1316
+2015,"Admitted","White",10896
+2015,"Admitted","International",2059
+2015,"Admitted","Unknown",39
+2015,"Admitted","Underrep. Students of Color",1640
+2015,"Admitted","All Students of Color",3127
+2015,"Admitted","Total",16121
+2016,"Admitted","Hispanic/Latino(a)",1109
+2016,"Admitted","2 or more races",647
+2016,"Admitted","African American/Black",358
+2016,"Admitted","Alaska Native",20
+2016,"Admitted","Native Hawaiian/Pacific Islander",14
+2016,"Admitted","Asian",1483
+2016,"Admitted","White",11350
+2016,"Admitted","International",2270
+2016,"Admitted","Unknown",53
+2016,"Admitted","Underrep. Students of Color",1901
+2016,"Admitted","All Students of Color",3631
+2016,"Admitted","Total",17304
+2017,"Admitted","Hispanic/Latino(a)",1389
+2017,"Admitted","2 or more races",676
+2017,"Admitted","African American/Black",398
+2017,"Admitted","Alaska Native",27
+2017,"Admitted","Native Hawaiian/Pacific Islander",10
+2017,"Admitted","Asian",1582
+2017,"Admitted","White",11917
+2017,"Admitted","International",2505
+2017,"Admitted","Unknown",646
+2017,"Admitted","Underrep. Students of Color",2246
+2017,"Admitted","All Students of Color",4082
+2017,"Admitted","Total",19150
+2018,"Admitted","Hispanic/Latino(a)",1583
+2018,"Admitted","2 or more races",852
+2018,"Admitted","African American/Black",414
+2018,"Admitted","Alaska Native",28
+2018,"Admitted","Native Hawaiian/Pacific Islander",15
+2018,"Admitted","Asian",2112
+2018,"Admitted","White",12857
+2018,"Admitted","International",3307
+2018,"Admitted","Unknown",931
+2018,"Admitted","Underrep. Students of Color",2569
+2018,"Admitted","All Students of Color",5004
+2018,"Admitted","Total",22099
+2019,"Admitted","Hispanic/Latino(a)",1693
+2019,"Admitted","2 or more races",840
+2019,"Admitted","African American/Black",412
+2019,"Admitted","Alaska Native",24
+2019,"Admitted","Native Hawaiian/Pacific Islander",9
+2019,"Admitted","Asian",2443
+2019,"Admitted","White",13844
+2019,"Admitted","International",3548
+2019,"Admitted","Unknown",1074
+2019,"Admitted","Underrep. Students of Color",2696
+2019,"Admitted","All Students of Color",5421
+2019,"Admitted","Total",23887
+2020,"Admitted","Hispanic/Latino(a)",2245
+2020,"Admitted","2 or more races",1057
+2020,"Admitted","African American/Black",623
+2020,"Admitted","Alaska Native",33
+2020,"Admitted","Native Hawaiian/Pacific Islander",9
+2020,"Admitted","Asian",3119
+2020,"Admitted","White",14241
+2020,"Admitted","International",3929
+2020,"Admitted","Unknown",1033
+2020,"Admitted","Underrep. Students of Color",3566
+2020,"Admitted","All Students of Color",7086
+2020,"Admitted","Total",26289
+2021,"Admitted","Hispanic/Latino(a)",2937
+2021,"Admitted","2 or more races",1390
+2021,"Admitted","African American/Black",773
+2021,"Admitted","Alaska Native",46
+2021,"Admitted","Native Hawaiian/Pacific Islander",12
+2021,"Admitted","Asian",4137
+2021,"Admitted","White",16815
+2021,"Admitted","International",4981
+2021,"Admitted","Unknown",1375
+2021,"Admitted","Underrep. Students of Color",4625
+2021,"Admitted","All Students of Color",9295
+2021,"Admitted","Total",32466
+2022,"Admitted","Hispanic/Latino(a)",2921
+2022,"Admitted","2 or more races",1530
+2022,"Admitted","African American/Black",827
+2022,"Admitted","Alaska Native",38
+2022,"Admitted","Native Hawaiian/Pacific Islander",15
+2022,"Admitted","Asian",4757
+2022,"Admitted","White",13999
+2022,"Admitted","International",4327
+2022,"Admitted","Unknown",1132
+2022,"Admitted","Underrep. Students of Color",4777
+2022,"Admitted","All Students of Color",10088
+2022,"Admitted","Total",29546
+2023,"Admitted","Hispanic/Latino(a)",3028
+2023,"Admitted","2 or more races",1430
+2023,"Admitted","African American/Black",761
+2023,"Admitted","Alaska Native",43
+2023,"Admitted","Native Hawaiian/Pacific Islander",12
+2023,"Admitted","Asian",4569
+2023,"Admitted","White",12710
+2023,"Admitted","International",3966
+2023,"Admitted","Unknown",1008
+2023,"Admitted","Underrep. Students of Color",4879
+2023,"Admitted","All Students of Color",9843
+2023,"Admitted","Total",27527
+2024,"Admitted","Hispanic/Latino(a)",2321
+2024,"Admitted","2 or more races",1337
+2024,"Admitted","African American/Black",556
+2024,"Admitted","Alaska Native",29
+2024,"Admitted","Native Hawaiian/Pacific Islander",14
+2024,"Admitted","Asian",4984
+2024,"Admitted","White",14457
+2024,"Admitted","International",4369
+2024,"Admitted","Unknown",1717
+2024,"Admitted","Underrep. Students of Color",3666
+2024,"Admitted","All Students of Color",9241
+2024,"Admitted","Total",29784
+2015,"Enrolled","Hispanic/Latino(a)",296
+2015,"Enrolled","2 or more races",225
+2015,"Enrolled","African American/Black",127
+2015,"Enrolled","Alaska Native",13
+2015,"Enrolled","Native Hawaiian/Pacific Islander",7
+2015,"Enrolled","Asian",339
+2015,"Enrolled","White",4755
+2015,"Enrolled","International",500
+2015,"Enrolled","Unknown",8
+2015,"Enrolled","Underrep. Students of Color",629
+2015,"Enrolled","All Students of Color",1007
+2015,"Enrolled","Total",6270
+2016,"Enrolled","Hispanic/Latino(a)",355
+2016,"Enrolled","2 or more races",261
+2016,"Enrolled","African American/Black",135
+2016,"Enrolled","Alaska Native",11
+2016,"Enrolled","Native Hawaiian/Pacific Islander",7
+2016,"Enrolled","Asian",401
+2016,"Enrolled","White",4694
+2016,"Enrolled","International",554
+2016,"Enrolled","Unknown",12
+2016,"Enrolled","Underrep. Students of Color",718
+2016,"Enrolled","All Students of Color",1170
+2016,"Enrolled","Total",6430
+2017,"Enrolled","Hispanic/Latino(a)",384
+2017,"Enrolled","2 or more races",191
+2017,"Enrolled","African American/Black",123
+2017,"Enrolled","Alaska Native",18
+2017,"Enrolled","Native Hawaiian/Pacific Islander",5
+2017,"Enrolled","Asian",443
+2017,"Enrolled","White",4736
+2017,"Enrolled","International",550
+2017,"Enrolled","Unknown",160
+2017,"Enrolled","Underrep. Students of Color",715
+2017,"Enrolled","All Students of Color",1164
+2017,"Enrolled","Total",6610
+2018,"Enrolled","Hispanic/Latino(a)",390
+2018,"Enrolled","2 or more races",267
+2018,"Enrolled","African American/Black",118
+2018,"Enrolled","Alaska Native",13
+2018,"Enrolled","Native Hawaiian/Pacific Islander",3
+2018,"Enrolled","Asian",531
+2018,"Enrolled","White",4706
+2018,"Enrolled","International",595
+2018,"Enrolled","Unknown",239
+2018,"Enrolled","Underrep. Students of Color",748
+2018,"Enrolled","All Students of Color",1322
+2018,"Enrolled","Total",6862
+2019,"Enrolled","Hispanic/Latino(a)",436
+2019,"Enrolled","2 or more races",273
+2019,"Enrolled","African American/Black",113
+2019,"Enrolled","Alaska Native",10
+2019,"Enrolled","Native Hawaiian/Pacific Islander",6
+2019,"Enrolled","Asian",646
+2019,"Enrolled","White",5148
+2019,"Enrolled","International",644
+2019,"Enrolled","Unknown",274
+2019,"Enrolled","Underrep. Students of Color",825
+2019,"Enrolled","All Students of Color",1484
+2019,"Enrolled","Total",7550
+2020,"Enrolled","Hispanic/Latino(a)",520
+2020,"Enrolled","2 or more races",298
+2020,"Enrolled","African American/Black",176
+2020,"Enrolled","Alaska Native",17
+2020,"Enrolled","Native Hawaiian/Pacific Islander",5
+2020,"Enrolled","Asian",676
+2020,"Enrolled","White",4849
+2020,"Enrolled","International",550
+2020,"Enrolled","Unknown",215
+2020,"Enrolled","Underrep. Students of Color",989
+2020,"Enrolled","All Students of Color",1692
+2020,"Enrolled","Total",7306
+2021,"Enrolled","Hispanic/Latino(a)",695
+2021,"Enrolled","2 or more races",399
+2021,"Enrolled","African American/Black",188
+2021,"Enrolled","Alaska Native",24
+2021,"Enrolled","Native Hawaiian/Pacific Islander",5
+2021,"Enrolled","Asian",822
+2021,"Enrolled","White",5191
+2021,"Enrolled","International",816
+2021,"Enrolled","Unknown",325
+2021,"Enrolled","Underrep. Students of Color",1251
+2021,"Enrolled","All Students of Color",2133
+2021,"Enrolled","Total",8465
+2022,"Enrolled","Hispanic/Latino(a)",797
+2022,"Enrolled","2 or more races",482
+2022,"Enrolled","African American/Black",246
+2022,"Enrolled","Alaska Native",20
+2022,"Enrolled","Native Hawaiian/Pacific Islander",4
+2022,"Enrolled","Asian",1148
+2022,"Enrolled","White",4903
+2022,"Enrolled","International",749
+2022,"Enrolled","Unknown",286
+2022,"Enrolled","Underrep. Students of Color",1432
+2022,"Enrolled","All Students of Color",2697
+2022,"Enrolled","Total",8635
+2023,"Enrolled","Hispanic/Latino(a)",797
+2023,"Enrolled","2 or more races",417
+2023,"Enrolled","African American/Black",235
+2023,"Enrolled","Alaska Native",22
+2023,"Enrolled","Native Hawaiian/Pacific Islander",3
+2023,"Enrolled","Asian",956
+2023,"Enrolled","White",4619
+2023,"Enrolled","International",663
+2023,"Enrolled","Unknown",254
+2023,"Enrolled","Underrep. Students of Color",1433
+2023,"Enrolled","All Students of Color",2430
+2023,"Enrolled","Total",7966
+2024,"Enrolled","Hispanic/Latino(a)",721
+2024,"Enrolled","2 or more races",404
+2024,"Enrolled","African American/Black",180
+2024,"Enrolled","Alaska Native",13
+2024,"Enrolled","Native Hawaiian/Pacific Islander",2
+2024,"Enrolled","Asian",1001
+2024,"Enrolled","White",5144
+2024,"Enrolled","International",690
+2024,"Enrolled","Unknown",361
+2024,"Enrolled","Underrep. Students of Color",1218
+2024,"Enrolled","All Students of Color",2321
+2024,"Enrolled","Total",8516
